@@ -74,7 +74,7 @@ Brown,vanilla,Tchip,Lively,Female,AM
 Brown,chocolate,Tchip,Moral,Female,AM
 Hazel,chocolate,pretzels,Outgoing,Female,AM
 Blue,chocolate,Tchip,Perfectionist,Female,AM
-Green,chocolate,Pchip,"",Female,AM
+Green,chocolate,Pchip,Lively,Female,AM
 Brown,chocolate,Tchip,Lively,Female,AM
 Brown,vanilla,pretzels,Moral,Female,AM
 Brown,vanilla,pretzels,Lively,Female,AM
@@ -132,7 +132,7 @@ Brown,vanilla,popcorn,Perfectionist,Female,AM
 Brown,vanilla,Pchip,Perfectionist,Female,PM
 Hazel,chocolate,popcorn,Moral,Female,PM
 Brown,vanilla,Pchip,Lively,Female,PM
-Hazel,fruit,pretzels,"",Female,PM
+Hazel,fruit,pretzels,Moral,Female,PM
 Brown,vanilla,Tchip,Perfectionist,Female,PM
 Brown,vanilla,Tchip,Perfectionist,Female,PM
 Blue,chocolate,Tchip,Lively,Female,PM
@@ -157,9 +157,9 @@ Blue,vanilla,Tchip,Lively,Female,PM
 Brown,vanilla,Pchip,Moral,Female,PM
 Blue,vanilla,beef jerky,Aggressive,Female,PM
 Blue,vanilla,Tchip,Outgoing,Female,PM
-Brown,chocolate,"",Lively,Female,PM
+Brown,chocolate,Tchip,Lively,Female,PM
 Brown,vanilla,Pchip,Perfectionist,Female,PM
-Brown,fruit,Pchip,"",Female,PM
+Brown,fruit,Pchip,Perfectionist,Female,PM
 Green,coffee,Tchip,Lively,Female,PM
 Hazel,chocolate,Tchip,Aggressive,Female,PM
 Hazel,fruit,Pchip,Perfectionist,Female,PM
